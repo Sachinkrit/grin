@@ -4,7 +4,7 @@
 
 Grin is an in-progress implementation of the MimbleWimble protocol. Many characteristics are still undefined but the following constitutes a first set of choices:
 
-  * Clean and minimal implementation, aiming to stay as such.
+  * Clean and minimal  implementation, aiming to stay as such.
   * Follows the MimbleWimble protocol, which provides great anonymity and scaling characteristics.
   * Cuckoo Cycle proof of work.
   * Relatively fast block time (a minute).
